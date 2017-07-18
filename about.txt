@@ -1,0 +1,17 @@
+Requirements:
+Must be logged into Reddit permanently with an active account.
+ 
+Hello,
+You will be installing a script that runs every 10 minutes (if you are browsing) and checks if there is a post I want upvoted. If so a new tab will be opened and you will have to upvote the post manually. Upvote tracking will be done to make sure your account is upvoting properly.
+ 
+You must install Greasemonkey/TamperMonkey(Firefox/Chrome) and then copy and install your respective script (Chrome/Firefox):
+Chrome--> http://whatyearis.it/karmabot/gm_chrome.js
+Firefox--> http://whatyearis.it/karmabot/gm_firefox.js
+ 
+After that you will be voting occasionally for $5 a week. If I make more business than usual it will be $10 a week.
+Payment will be BTC or Paypal every Friday.
+ 
+If there are any problems or the script bugs out PM me and disable the script.
+Cheers!
+
+Reddit Upvote Checker https://whatyearis.it/karmabot/checkaccount.php
